@@ -123,7 +123,7 @@ eat food for food in foods when food isnt 'chocolate'
 countdown = (num for num in [10..1])
 ```
 
-> Coffee-Scrip and JavaScript Operators comparision
+> Coffee-Script and JavaScript Operators comparision
 
 
 | CoffeeScript	| JavaScript
